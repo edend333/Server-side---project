@@ -1,4 +1,3 @@
-const indexR = require(".");
 const usersR = require("./users");
 const toyR = require("./toy");
 
