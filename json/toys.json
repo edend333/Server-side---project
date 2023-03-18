@@ -1,0 +1,149 @@
+ [
+  {
+    "name": "Advanced Magnetic Building Toy",
+    "info": "Magnetic toy for building and creating different models",
+    "category": "Building Toys",
+    "img_url": "https://example.com/toy1.jpg",
+    "price": 24
+  },
+  {
+    "name": "Garden Animals Soft Doll",
+    "info": "Soft and cute doll of garden animals with vibrant colors",
+    "category": "Dolls and Accessories",
+    "img_url": "https://example.com/toy2.jpg",
+    "price": 12
+  },
+  {
+    "name": "Kids Bike with Training Wheels",
+    "info": "Sturdy and safe bike for kids learning to ride with training wheels",
+    "category": "Outdoor and Structures",
+    "img_url": "https://example.com/toy3.jpg",
+    "price": 89
+  },
+  {
+    "name": "Educational Alphabet Puzzle",
+    "info": "Colorful and fun puzzle to learn the alphabet and develop motor skills",
+    "category": "Educational Toys",
+    "img_url": "https://example.com/toy4.jpg",
+    "price": 9
+  },
+  {
+    "name": "Building Blocks",
+    "info": "Educational building blocks to improve creativity and motor skills",
+    "category": "Educational Toys",
+    "img_url": "https://example.com/building_blocks.jpg",
+    "price": 19
+  },
+  {
+    "name": "Toy Kitchen Set",
+    "info": "A colorful toy kitchen set with pots, pans, and utensils",
+    "category": "Pretend Play",
+    "img_url": "https://example.com/toy_kitchen.jpg",
+    "price": 29
+  },
+  {
+    "name": "RC Drone",
+    "info": "A high-tech RC drone with a 720p camera and 6-axis gyro stabilization",
+    "category": "Remote Control Toys",
+    "img_url": "https://example.com/rc_drone.jpg",
+    "price": 99
+  },
+  {
+    "name": "Wireless Bluetooth Earbuds",
+    "info": "High quality earbuds with noise cancelling technology",
+    "category": "Electronics",
+    "img_url": "https://example.com/earbuds.jpg",
+    "price": 59
+  },
+  {
+    "name": "Leather Messenger Bag",
+    "info": "Stylish and functional bag for everyday use",
+    "category": "Fashion",
+    "img_url": "https://example.com/messenger-bag.jpg",
+    "price": 129
+  },
+  {
+    "name": "Organic Cotton Bed Sheets",
+    "info": "Soft and comfortable sheets made from 100% organic cotton",
+    "category": "Home",
+    "img_url": "https://example.com/bed-sheets.jpg",
+    "price": 89
+  },
+  {
+    "name": "Men's Running Shoes",
+    "info": "Lightweight and durable shoes for running and sports",
+    "category": "Sports",
+    "img_url": "https://example.com/running-shoes.jpg",
+    "price": 79
+  },
+  {
+    "name": "Smart Thermostat",
+    "info": "A programmable thermostat with energy-saving features",
+    "category": "Home",
+    "img_url": "https://example.com/thermostat.jpg",
+    "price": 199
+  },
+  {
+    "name": "Vintage Vinyl Record Player",
+    "info": "A classic record player with modern features and Bluetooth connectivity",
+    "category": "Electronics",
+    "img_url": "https://example.com/record-player.jpg",
+    "price": 299
+  },
+  {
+    "name": "Smart Watch",
+    "info": "A high-tech watch with fitness tracking and phone connectivity",
+    "category": "Electronics",
+    "img_url": "https://example.com/smart-watch.jpg",
+    "price": 149
+  },
+  {
+    "name": "Bamboo Cutting Board",
+    "info": "A durable and eco-friendly cutting board for your kitchen",
+    "category": "Home",
+    "img_url": "https://example.com/cutting-board.jpg",
+    "price": 34
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "info": "A compact and powerful speaker for music on-the-go",
+    "category": "Electronics",
+    "img_url": "https://example.com/bluetooth-speaker.jpg",
+    "price": 79
+  },
+  {
+    "name": "Women's Leather Wallet",
+    "info": "A stylish and practical wallet with multiple compartments",
+    "category": "Fashion",
+    "img_url": "https://example.com/leather-wallet.jpg",
+    "price": 49
+  },
+  {
+    "name": "Gardening Tool Set",
+    "info": "A set of high-quality gardening tools for your backyard",
+    "category": "Home",
+    "img_url": "https://example.com/gardening-tools.jpg",
+    "price": 69
+  },
+  {
+    "name": "Electric Toothbrush",
+    "info": "An advanced toothbrush with multiple brushing modes and a long battery life",
+    "category": "Personal Care",
+    "img_url": "https://example.com/toothbrush.jpg",
+    "price": 119
+  },
+  {
+    "name": "Men's Leather Jacket",
+    "info": "A classic leather jacket with a modern design",
+    "category": "Fashion",
+    "img_url": "https://example.com/leather-jacket.jpg",
+    "price": 249
+  },
+  {
+    "name": "Travel Backpack",
+    "info": "A versatile and durable backpack for your travels",
+    "category": "Travel",
+    "img_url": "https://example.com/backpack.jpg",
+    "price": 89
+  }
+ ]
